@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARJUN V L</h1>
-<h3 align="center">👀 I’m an AI developer, interested in LLM and CV</h3>
+
+- 👀 I’m an AI developer, interested in LLM and CV
 
 - 🌱 I’m currently learning **Gen AI**
 
