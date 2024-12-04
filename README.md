@@ -1,3 +1,6 @@
+![gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+
+
 # 💫 About Me:
 Hi 👋, I'm ARJUN V L<br><br>- 👀 I’m an AI developer, interested in LLM and CV<br><br>- 🌱 I’m currently learning **Gen AI**<br><br>- 👯 I’m looking to collaborate on **LLM and CV**<br><br>- 📫 How to reach me **vlarjun2022@gmail.com**<br><br>- ⚡ Fun fact **story game enthusiast**
 
